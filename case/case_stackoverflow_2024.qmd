@@ -11,13 +11,13 @@ format:
     toc: true
     toc-title: "Sumário"
     toc-depth: 2
+    toc-location: left
+    toc-expand: true
     code-fold: true
     code-summary: "Ver código"
     fig-width: 10
     fig-height: 6
     highlight-style: oblivion
-    output-file: index.html
-    output-dir: docs
 execute:
   warning: false
   message: false
