@@ -16,6 +16,8 @@ format:
     fig-width: 10
     fig-height: 6
     highlight-style: oblivion
+    output-file: index.html
+    output-dir: docs
 execute:
   warning: false
   message: false

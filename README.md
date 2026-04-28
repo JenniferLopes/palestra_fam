@@ -6,7 +6,7 @@ editor_options:
 
 # Análise e Visualização de Dados
 
-### Palestra - FAM Online \| FAM Centro Universitário das Américas - Jennifer Luz Lopes
+### Palestra - FAM Online \| FAM Centro Universitário das Américas Jennifer Luz Lopes
 
 ![](images/clipboard-2755452795.png)
 
