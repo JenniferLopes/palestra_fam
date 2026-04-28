@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Análise e Visualização de Dados
 
 ### Palestra - FAM Online \| FAM Centro Universitário das Américas Jennifer Luz Lopes
