@@ -249,7 +249,3 @@ Este material é de uso educacional livre.
 Os dados do Stack Overflow estão disponíveis sob licença [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-<sub> **FAM Centro Universitário das Américas** </sub>
-:::
